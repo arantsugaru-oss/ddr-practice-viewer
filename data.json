@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T02:26:00.132Z",
-  "recordCount": 1811,
+  "generatedAt": "2026-08-21T15:19:07.209Z",
+  "recordCount": 1815,
   "records": [
     {
       "title": "愛氏AIされ",
@@ -1758,9 +1758,9 @@
       "chart": "CSP",
       "level": 16,
       "status": "プレイ済み",
-      "lastPlay": "2025-07-16 16:40:36",
-      "bestScore": 996740,
-      "playCount": 2,
+      "lastPlay": "2026-08-21 21:59:20",
+      "bestScore": 983940,
+      "playCount": 1,
       "songId": "POoldOddQl9Dbq8b6iOP0iPoQd6IdOPl"
     },
     {
@@ -2678,9 +2678,9 @@
       "chart": "ESP",
       "level": 13,
       "status": "プレイ済み",
-      "lastPlay": "2026-05-02 17:28:31",
-      "bestScore": 999940,
-      "playCount": 35,
+      "lastPlay": "2026-08-21 21:43:09",
+      "bestScore": 989750,
+      "playCount": 2,
       "songId": "I6Dd0QIi086il1918dQI6dq0l1d9ibD0"
     },
     {
@@ -2738,9 +2738,9 @@
       "chart": "ESP",
       "level": 13,
       "status": "プレイ済み",
-      "lastPlay": "2024-06-13 14:27:21",
-      "bestScore": 999930,
-      "playCount": 19,
+      "lastPlay": "2026-08-21 21:45:58",
+      "bestScore": 998580,
+      "playCount": 1,
       "songId": "id0QqdbI8oloO9l08IqI9q1D0819OQID"
     },
     {
@@ -3978,9 +3978,9 @@
       "chart": "ESP",
       "level": 17,
       "status": "プレイ済み",
-      "lastPlay": "2026-07-12 20:39:42",
-      "bestScore": 996220,
-      "playCount": 34,
+      "lastPlay": "2026-08-21 22:22:13",
+      "bestScore": 930870,
+      "playCount": 2,
       "songId": "l6d0ibbliQPQDdb1lP18D9qbPDi1698b"
     },
     {
@@ -5077,10 +5077,10 @@
       "title": "とこにゃつ☆トロピカル",
       "chart": "ESP",
       "level": 15,
-      "status": "未プレイ",
-      "lastPlay": "",
-      "bestScore": null,
-      "playCount": 0,
+      "status": "プレイ済み",
+      "lastPlay": "2026-08-21 20:29:31",
+      "bestScore": 999610,
+      "playCount": 1,
       "songId": "Oqo009llDdDIODldDOI6OIolqlI9PI0d"
     },
     {
@@ -5157,30 +5157,30 @@
       "title": "Abyss",
       "chart": "ESP",
       "level": 10,
-      "status": "未プレイ",
-      "lastPlay": "",
-      "bestScore": null,
-      "playCount": 0,
+      "status": "プレイ済み",
+      "lastPlay": "2026-08-21 20:01:10",
+      "bestScore": 999900,
+      "playCount": 2,
       "songId": "Q0qQO0P8818lIoo0boO66O0qd09dIlO8"
     },
     {
       "title": "AFRONOVA(X-Special)",
       "chart": "CSP",
       "level": 13,
-      "status": "未プレイ",
-      "lastPlay": "",
-      "bestScore": null,
-      "playCount": 0,
+      "status": "プレイ済み",
+      "lastPlay": "2026-08-21 20:24:07",
+      "bestScore": 996830,
+      "playCount": 1,
       "songId": "P01qbiIoO6dqIIqo6Db9dqq1bI6ddbqI"
     },
     {
       "title": "Aftermath",
       "chart": "ESP",
       "level": 16,
-      "status": "未プレイ",
-      "lastPlay": "",
-      "bestScore": null,
-      "playCount": 0,
+      "status": "プレイ済み",
+      "lastPlay": "2026-08-21 21:05:20",
+      "bestScore": 999510,
+      "playCount": 1,
       "songId": "9IQoPbOidod8I0qQ989Ql60D09I99q1Q"
     },
     {
@@ -5307,10 +5307,10 @@
       "title": "BRE∀K DOWN! (World Version)",
       "chart": "ESP",
       "level": 13,
-      "status": "未プレイ",
-      "lastPlay": "",
-      "bestScore": null,
-      "playCount": 0,
+      "status": "プレイ済み",
+      "lastPlay": "2026-08-21 20:26:18",
+      "bestScore": 999830,
+      "playCount": 1,
       "songId": "9OOIPiqDooPb1QQ900QODl60dqbP8Dib"
     },
     {
@@ -7407,10 +7407,10 @@
       "title": "Drop The Bounce",
       "chart": "CSP",
       "level": 16,
-      "status": "未プレイ",
-      "lastPlay": "",
-      "bestScore": null,
-      "playCount": 0,
+      "status": "プレイ済み",
+      "lastPlay": "2026-08-21 21:11:53",
+      "bestScore": 996480,
+      "playCount": 2,
       "songId": "08PiiDq6b1oQ8OIIbDql0bDbIID0b1iP"
     },
     {
@@ -8367,10 +8367,10 @@
       "title": "Follow Tomorrow",
       "chart": "CSP",
       "level": 14,
-      "status": "未プレイ",
-      "lastPlay": "",
-      "bestScore": null,
-      "playCount": 0,
+      "status": "プレイ済み",
+      "lastPlay": "2026-08-21 20:04:20",
+      "bestScore": 998170,
+      "playCount": 1,
       "songId": "ObI1oo6QlO981880DDDOlo8bQobI0I9P"
     },
     {
@@ -8667,10 +8667,10 @@
       "title": "Give Me",
       "chart": "CSP",
       "level": 16,
-      "status": "未プレイ",
-      "lastPlay": "",
-      "bestScore": null,
-      "playCount": 0,
+      "status": "プレイ済み",
+      "lastPlay": "2026-08-21 21:01:17",
+      "bestScore": 999620,
+      "playCount": 2,
       "songId": "d9llb88lDI1q0QI10P01lqIqlI6QO0Dl"
     },
     {
@@ -10048,9 +10048,9 @@
       "chart": "ESP",
       "level": 17,
       "status": "プレイ済み",
-      "lastPlay": "2026-06-27 21:53:28",
-      "bestScore": 999360,
-      "playCount": 37,
+      "lastPlay": "2026-08-21 22:18:41",
+      "bestScore": 971850,
+      "playCount": 2,
       "songId": "ob6IPbiqD969Q66808obd908DI81bqPi"
     },
     {
@@ -10497,10 +10497,10 @@
       "title": "Last Twilight",
       "chart": "ESP",
       "level": 16,
-      "status": "未プレイ",
-      "lastPlay": "",
-      "bestScore": null,
-      "playCount": 0,
+      "status": "プレイ済み",
+      "lastPlay": "2026-08-21 21:31:15",
+      "bestScore": 998430,
+      "playCount": 4,
       "songId": "PllDll9di16l8ild6b688l6OP6olQid8"
     },
     {
@@ -15398,9 +15398,9 @@
       "chart": "ESP",
       "level": 17,
       "status": "プレイ済み",
-      "lastPlay": "2026-02-12 21:42:30",
-      "bestScore": 956280,
-      "playCount": 6,
+      "lastPlay": "2026-08-21 22:07:24",
+      "bestScore": 864140,
+      "playCount": 2,
       "songId": "I0dOli6do1l1008I8PllOq8DoOoIO8oq"
     },
     {
@@ -15428,9 +15428,9 @@
       "chart": "CSP",
       "level": 17,
       "status": "プレイ済み",
-      "lastPlay": "2026-06-29 12:55:49",
-      "bestScore": 998050,
-      "playCount": 9,
+      "lastPlay": "2026-08-21 22:11:52",
+      "bestScore": 960030,
+      "playCount": 1,
       "songId": "8iiqQ9o1P089901DPIq8PDPOl6oDOl1P"
     },
     {
@@ -17858,9 +17858,9 @@
       "chart": "ESP",
       "level": 15,
       "status": "プレイ済み",
-      "lastPlay": "2026-05-09 21:48:22",
-      "bestScore": 999860,
-      "playCount": 21,
+      "lastPlay": "2026-08-21 21:49:05",
+      "bestScore": 978070,
+      "playCount": 1,
       "songId": "I61ioI01IOPDPbP1OO0l98PD0iDbid0D"
     },
     {
@@ -18028,9 +18028,9 @@
       "chart": "ESP",
       "level": 14,
       "status": "プレイ済み",
-      "lastPlay": "2026-08-13 18:44:00",
-      "bestScore": 999850,
-      "playCount": 2,
+      "lastPlay": "2026-08-21 21:52:23",
+      "bestScore": 992890,
+      "playCount": 1,
       "songId": "Pqdb6bI66o9896lDbDq1Pi1Dl9QqO6Pd"
     },
     {
@@ -18112,6 +18112,46 @@
       "bestScore": 957310,
       "playCount": 1,
       "songId": "Di0ODIlddo8d90oo09qqd98QObQP1llI"
+    },
+    {
+      "title": "2026-08-21 22:15:05 和風インザ洋風 CHALLENGEDOUBLE",
+      "chart": "CSP",
+      "level": 17,
+      "status": "プレイ済み",
+      "lastPlay": "2026-08-21 22:15:07",
+      "bestScore": 958070,
+      "playCount": 1,
+      "songId": "PQq8l8DDD6lP8bbQlid9Q1iO18IQqo1b"
+    },
+    {
+      "title": "2026-08-21 21:56:02 7 Colors CHALLENGEDOUBLE",
+      "chart": "CSP",
+      "level": 16,
+      "status": "プレイ済み",
+      "lastPlay": "2026-08-21 21:56:04",
+      "bestScore": 985430,
+      "playCount": 1,
+      "songId": "Pqdb6bI66o9896lDbDq1Pi1Dl9QqO6Pd"
+    },
+    {
+      "title": "2026-08-21 21:14:40 Harmonia CHALLENGESINGLE",
+      "chart": "CSP",
+      "level": 16,
+      "status": "プレイ済み",
+      "lastPlay": "2026-08-21 21:14:42",
+      "bestScore": 990300,
+      "playCount": 1,
+      "songId": "DlQ190o8bqO8oOQ0Iqloql6lIlPP9qO9"
+    },
+    {
+      "title": "2026-08-21 20:06:57 Touch My Body CHALLENGESINGLE",
+      "chart": "CSP",
+      "level": 14,
+      "status": "プレイ済み",
+      "lastPlay": "2026-08-21 20:06:59",
+      "bestScore": 992410,
+      "playCount": 1,
+      "songId": "1loi6P66IOoPqD9I68odili18P8bPb9P"
     }
   ]
 }
